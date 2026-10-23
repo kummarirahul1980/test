@@ -1,0 +1,11 @@
+{
+  "name": "ngrokurlworker",
+  "main": "src/index.js",
+  "compatibility_date": "2024-09-23",
+  "kv_namespaces": [
+    {
+      "binding": "NGROK_REGISTRY",
+      "id": "cefe2a07ae8941318d1d29df4a507c49"
+    }
+  ]
+}
